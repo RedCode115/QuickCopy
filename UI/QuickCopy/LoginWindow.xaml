@@ -1,0 +1,29 @@
+﻿<Window x:Class="UI.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="200" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock  Grid.Column="0" Grid.Row="0" Text="Login" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" Grid.ColumnSpan="2"/>
+        <TextBlock  Grid.Column="0" Grid.Row="1" Text="User name :" Margin="5"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="UsernameBox" Margin="3"/>
+        <TextBlock  Grid.Column="0" Grid.Row="2" Text="Password :" Margin="5"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Name="PascodeBox" Margin="3"/>
+        <Button Grid.Column="0" Grid.Row="3" Content="Login" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="5"/>
+        <Button Grid.Column="0" Grid.Row="4" Content="Sign in" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="5"/>
+    </Grid>
+</Window>

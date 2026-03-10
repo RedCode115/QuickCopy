@@ -1,0 +1,9 @@
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\AccountWindow.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\CopyWindow.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\SignInWindow.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\Vault window.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\UI_MarkupCompile.cache
+C:\Users\yanng\QuickCopy\UI\QuickCopy\obj\Debug\net8.0-windows\UI_MarkupCompile.lref
