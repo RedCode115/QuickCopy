@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\editingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -70,7 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "QuickCopy\\AssemblyInfo.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\LoginWindow.xaml",
@@ -111,15 +111,15 @@
               "Title": "EditingWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\EditingWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\EditingWindow.xaml",
-              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\EditingWindow.xaml*",
-              "RelativeToolTip": "QuickCopy\\EditingWindow.xaml*",
+              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\EditingWindow.xaml",
+              "RelativeToolTip": "QuickCopy\\EditingWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-09T09:42:20.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SettingsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\SettingsWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\SettingsWindow.xaml",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignInWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\SignInWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\SignInWindow.xaml",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vault window.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\Vault window.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\Vault window.xaml",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CopyWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\CopyWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\CopyWindow.xaml",

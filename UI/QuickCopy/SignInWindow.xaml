@@ -62,7 +62,7 @@
         <TextBox Grid.Column="1" Grid.Row="14" Name="position" Margin="3"/>
         <TextBlock  Grid.Column="0" Grid.Row="15" Text="Main use* :" Margin="5"/>
         <TextBox Grid.Column="1" Grid.Row="15" Name="mainUse" Margin="3"/>
-        <Button Grid.Column="0" Grid.Row="16" Content="Sign in" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="5"/>
-        <Button Grid.Column="0" Grid.Row="17" Content="Cancel" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="5"/>
+        <Button Grid.Column="0" Grid.Row="16" Content="Sign in" Click="ButtonSignIn_Click" Grid.ColumnSpan="2" Margin="5"/>
+        <Button Grid.Column="0" Grid.Row="17" Content="Cancel" Click="ButtonCancel_Click" Grid.ColumnSpan="2" Margin="5"/>
     </Grid>
 </Window>

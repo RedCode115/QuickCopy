@@ -18,8 +18,8 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <Button Grid.Column="0" Grid.Row="0" Content="Fav" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="3"/>
-        <Button Grid.Column="2" Grid.Row="0" Content="History" Click="ButtonVoegToe_Click" Grid.ColumnSpan="2" Margin="3"/>
+        <Button Grid.Column="0" Grid.Row="0" Content="Fav" Click="ButtonFavV_Click" Grid.ColumnSpan="2" Margin="3"/>
+        <Button Grid.Column="2" Grid.Row="0" Content="History" Click="ButtonHistoryV_Click" Grid.ColumnSpan="2" Margin="3"/>
         <DataGrid Grid.Row="1" Name="DataGridHistory" Margin="5" SelectionMode="Single" IsReadOnly="True" SelectionChanged="DataGridHRMedewerkers_SelectionChanged" Grid.ColumnSpan="4">
             <DataGrid.ContextMenu>
                 <ContextMenu>
@@ -39,8 +39,8 @@
                 </ContextMenu>
             </DataGrid.ContextMenu>
         </DataGrid>
-        <Button Grid.Column="0" Grid.Row="2" Content="Vault" Click="ButtonVoegToe_Click" Margin="3"/>
-        <Button Grid.Column="2" Grid.Row="2" Content="Settings" Click="ButtonVoegToe_Click" Margin="3"/>
-        <Button Grid.Column="3" Grid.Row="2" Content="Account" Click="ButtonVoegToe_Click" Margin="3"/>
+        <Button Grid.Column="0" Grid.Row="2" Content="Vault" Click="ButtonVault_Click" Margin="3"/>
+        <Button Grid.Column="2" Grid.Row="2" Content="Settings" Click="ButtonSettings_Click" Margin="3"/>
+        <Button Grid.Column="3" Grid.Row="2" Content="Account" Click="ButtonAccount_Click" Margin="3"/>
     </Grid>
 </Window>

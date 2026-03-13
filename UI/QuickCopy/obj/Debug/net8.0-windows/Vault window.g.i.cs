@@ -61,7 +61,7 @@ namespace UI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UI;component/vault%20window.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UI;V1.0.0.0;component/vault%20window.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Vault window.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

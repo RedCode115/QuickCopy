@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\yanng\\QuickCopy\\UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\editingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\editingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\copywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\copywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\editingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\editingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\vault window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\vault window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|solutionrelative:quickcopy\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{173F4396-786D-41AB-8B12-D2F44D057C08}|QuickCopy\\UI.csproj|c:\\users\\yanng\\quickcopy\\ui\\quickcopy\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "QuickCopy\\AssemblyInfo.cs",
@@ -78,8 +78,7 @@
               "RelativeToolTip": "QuickCopy\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T07:38:48.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T07:38:48.926Z"
             },
             {
               "$type": "Document",
@@ -90,12 +89,11 @@
               "ToolTip": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\AccountWindow.xaml",
               "RelativeToolTip": "QuickCopy\\AccountWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-09T09:41:43.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T09:41:43.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\LoginWindow.xaml",
@@ -107,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EditingWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\EditingWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\EditingWindow.xaml",
@@ -119,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SettingsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\SettingsWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\SettingsWindow.xaml",
@@ -131,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SignInWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\SignInWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\SignInWindow.xaml",
@@ -155,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CopyWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\UI\\QuickCopy\\CopyWindow.xaml",
               "RelativeDocumentMoniker": "QuickCopy\\CopyWindow.xaml",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "QuickCopy\\AccountWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T07:38:46.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T07:38:46.8Z"
             },
             {
               "$type": "Document",
