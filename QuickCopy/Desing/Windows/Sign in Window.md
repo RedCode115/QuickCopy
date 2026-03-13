@@ -1,3 +1,4 @@
+Window white goal to register new users.
 17 points of interest, 15 are input fields and 2 buttons.
 
 15 input fields :

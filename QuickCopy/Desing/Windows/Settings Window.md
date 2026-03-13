@@ -1,0 +1,1 @@
+Window white goal  to let the user change the settings of the app.

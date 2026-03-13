@@ -1,3 +1,4 @@
+Window white goal to check that the user has the right to use this app.
 This is a very basic window whit a clear goal and a simple way of doing it. 
 There are 4 points of interest :
 - 2 buttons

@@ -1,3 +1,4 @@
+Window white goal to see there account and change there personnel info.
 14 points of interest, 10 are input fields, 2 buttons and 2 text fields.
 # Input fields
 

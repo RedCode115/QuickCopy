@@ -1,3 +1,4 @@
+Window white goal to show and to provide access to the files.
 4 points of interest where 3 of them are buttons and the other one is a grid box. 
 # Grid box
 

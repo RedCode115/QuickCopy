@@ -1,3 +1,4 @@
+Window white goal to change the content of a specific file.
 5 points of interest, 3 are buttons and 2 are text inputs.
 # Buttons 
 

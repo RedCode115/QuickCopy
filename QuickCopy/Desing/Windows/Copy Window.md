@@ -1,3 +1,4 @@
+Window white goal to provide quick access to copy history and the fille system to copy and use.
 This window has 2 main states:
 - History state
 - Fav state
