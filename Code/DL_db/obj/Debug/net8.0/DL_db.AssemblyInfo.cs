@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DL_db")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bebf4054e2580fcabc076111ecfc9ed4fe1ca84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a9a5d33940235d8c4f00f4922714c3d173ff7f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DL_db")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DL_db")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

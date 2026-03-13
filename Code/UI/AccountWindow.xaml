@@ -48,7 +48,7 @@
         <TextBox Grid.Column="1" Grid.Row="10" Name="position" Margin="3"/>
         <TextBlock  Grid.Column="0" Grid.Row="11" Text="Main use :" Margin="5"/>
         <TextBox Grid.Column="1" Grid.Row="11" Name="mainUse" Margin="3"/>
-        <Button Grid.Column="1" Grid.Row="12" Content="Save" Click="ButtonVoegToe_Click" Grid.ColumnSpan="1" Margin="5"/>
-        <Button Grid.Column="0" Grid.Row="12" Content="Cancel" Click="ButtonVoegToe_Click" Grid.ColumnSpan="1" Margin="5"/>
+        <Button Grid.Column="1" Grid.Row="12" Content="Save" Click="ButtonSave_Click" Margin="3"/>
+        <Button Grid.Column="0" Grid.Row="12" Content="Cancel" Click="ButtonCancel_Click" Margin="3"/>
     </Grid>
 </Window>

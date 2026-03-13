@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yanng\\QuickCopy\\UI\\DL_file\\DL_file.csproj",
+      "projectUniqueName": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_file\\DL_file.csproj",
       "projectName": "DL_file",
-      "projectPath": "C:\\Users\\yanng\\QuickCopy\\UI\\DL_file\\DL_file.csproj",
+      "projectPath": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_file\\DL_file.csproj",
       "packagesPath": "C:\\Users\\yanng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yanng\\QuickCopy\\UI\\DL_file\\obj\\",
+      "outputPath": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_file\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
