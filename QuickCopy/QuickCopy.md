@@ -14,9 +14,10 @@ The initial concept of this app was to combine a file explorer, clipboard, and s
 
 The main feathers of the app would bd a big main screen where you can  adjust the code files maps and all those things and co find the code you want and copy, edit delete or move it how ever you want and a small screen with your favorites on for fast and easy use and also a tab whit your copy time line so you can use reuse things you copied earlier again just by selecting it. 
 
-# [[Design]]
+# Design
 
 This is for the designs of the windows, database and all that. here in stand the concepts and ideas and goals for the design of these points of interest.
+The main window will be the [[Copy Window]] and when the app starts the [[Login Window]] will be shown first to the user.
 
 ## [[Database]]
 

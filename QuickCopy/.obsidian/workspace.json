@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desing/Windows/Copy Window.md",
+                "file": "Desing/Windows/Account Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copy Window"
+              "title": "Account Window"
             }
           }
         ]
@@ -204,20 +204,22 @@
   },
   "active": "5b7aae8259c4deae",
   "lastOpenFiles": [
+    "QuickCopy.md",
+    "Desing/Windows/Account Window.md",
+    "Desing/DB/Database.md",
+    "Desing/Design.md",
+    "Assets",
+    "Ontwerp",
+    "Assets/Desing_img's/DatabaseDiagram.png",
+    "Desing/Windows/Settings Window.md",
     "Desing/Windows/Copy Window.md",
     "Desing/Windows/Editing Window.md",
-    "Desing/Windows/Account Window.md",
-    "Desing/Windows/Vault Window.md",
     "Desing/Windows/Sign in Window.md",
+    "Desing/Windows/Vault Window.md",
     "Desing/Windows/Login Window.md",
-    "Desing/Windows/Settings Window.md",
     "Desing/Windows/Windows.md",
-    "Desing/Design.md",
-    "QuickCopy.md",
-    "Desing/DB/Database.md",
-    "exstra/img/Pasted image 20260309085758.png",
-    "exstra/img",
-    "exstra",
+    "Assets/Desing_img's/img",
+    "Assets/Desing_img's",
     "exstra/img/Pasted image 20260309084637.png",
     "Desing/Business Layer/BL",
     "Desing/DB",
@@ -226,8 +228,6 @@
     "UI/UI.md",
     "Untitled.base",
     "Desing/Windows",
-    "QuickCopy/Design/UI/Vault Window",
-    "Data Layer",
     "QuickCopy/Business Layer.md",
     "QuickCopy/Concept.md",
     "QuickCopy/Data Bank.md",

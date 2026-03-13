@@ -2,7 +2,13 @@ Window white goal to show and to provide access to the files.
 4 points of interest where 3 of them are buttons and the other one is a grid box. 
 # Grid box
 
-Shows the 
+Shows the filles and maps are in the vault and if left mouse click it copy's it or opens when its a map and if right click a menu will open op with:
+- Copy
+- Edit
+-  FAV or unFAV
+- Move 
+- Rename
+- Delete
 # Buttons
 ## Account button
 
