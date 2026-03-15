@@ -5,11 +5,13 @@ VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{DBBDCA1C-4EEB-481D-89EE-8E57CB7332E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL_file", "DL_file\DL_file.csproj", "{EBB70E49-7BC8-44E1-9212-186F800532DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL_File", "DL_file\DL_File.csproj", "{EBB70E49-7BC8-44E1-9212-186F800532DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL_db", "DL_db\DL_db.csproj", "{7CBC4A61-2D84-4282-9082-537D67EB6E14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL_SQL", "DL_db\DL_SQL.csproj", "{7CBC4A61-2D84-4282-9082-537D67EB6E14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{6554FAA8-5719-4FD6-ACA9-70E743A53BBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6554FAA8-5719-4FD6-ACA9-70E743A53BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6554FAA8-5719-4FD6-ACA9-70E743A53BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6554FAA8-5719-4FD6-ACA9-70E743A53BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6554FAA8-5719-4FD6-ACA9-70E743A53BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

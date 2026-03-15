@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BL.dll": {}
+        }
+      },
+      "DL_File/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DL_File.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DL_File.dll": {}
+        }
+      },
+      "DL_SQL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DL_SQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DL_SQL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BL/1.0.0": {
+      "type": "project",
+      "path": "../BL/BL.csproj",
+      "msbuildProject": "../BL/BL.csproj"
+    },
+    "DL_File/1.0.0": {
+      "type": "project",
+      "path": "../DL_file/DL_File.csproj",
+      "msbuildProject": "../DL_file/DL_File.csproj"
+    },
+    "DL_SQL/1.0.0": {
+      "type": "project",
+      "path": "../DL_db/DL_SQL.csproj",
+      "msbuildProject": "../DL_db/DL_SQL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "BL >= 1.0.0",
+      "DL_File >= 1.0.0",
+      "DL_SQL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yanng\\.nuget\\packages\\": {},
@@ -39,7 +96,17 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\BL.csproj"
+            },
+            "C:\\Users\\yanng\\QuickCopy\\Code\\DL_db\\DL_SQL.csproj": {
+              "projectPath": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_db\\DL_SQL.csproj"
+            },
+            "C:\\Users\\yanng\\QuickCopy\\Code\\DL_file\\DL_File.csproj": {
+              "projectPath": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_file\\DL_File.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
