@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Beheerders\" />
     <Folder Include="Model\" />
     <Folder Include="Exceptions\" />

@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,9 +21,22 @@ namespace UI
     /// </summary>
     public partial class LoginWindow : Window
     {
+        string connectionString;
+        string databaseType;
+
         public LoginWindow()
         {
             InitializeComponent();
+        }
+
+        private void LeesConfig()
+        {
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+            var config = builder.Build();
+            connectionString = config.GetConnectionString("SQLServerConnection");
+            databaseType = config.GetSection("AppSettings")["databaseType"];
         }
     }
 }
