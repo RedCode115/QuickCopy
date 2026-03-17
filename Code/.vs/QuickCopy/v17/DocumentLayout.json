@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{DBBDCA1C-4EEB-481D-89EE-8E57CB7332E4}|BL\\BL.csproj|solutionrelative:bl\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DBBDCA1C-4EEB-481D-89EE-8E57CB7332E4}|BL\\BL.csproj|c:\\users\\yanng\\quickcopy\\code\\bl\\domain\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBDCA1C-4EEB-481D-89EE-8E57CB7332E4}|BL\\BL.csproj|solutionrelative:bl\\domain\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CBC4A61-2D84-4282-9082-537D67EB6E14}|DL_db\\DL_SQL.csproj|c:\\users\\yanng\\quickcopy\\code\\dl_db\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CBC4A61-2D84-4282-9082-537D67EB6E14}|DL_db\\DL_SQL.csproj|solutionrelative:dl_db\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\vault window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\vault window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\yanng\\quickcopy\\code\\ui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,8 +143,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\Domain\\Settings.cs",
+              "RelativeDocumentMoniker": "BL\\Domain\\Settings.cs",
+              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\Domain\\Settings.cs",
+              "RelativeToolTip": "BL\\Domain\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:32:23.638Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -153,37 +166,14 @@
               "RelativeDocumentMoniker": "BL\\Domain\\User.cs",
               "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\Domain\\User.cs",
               "RelativeToolTip": "BL\\Domain\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T12:58:07.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SignInWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml.cs",
-              "RelativeDocumentMoniker": "UI\\SignInWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml.cs",
-              "RelativeToolTip": "UI\\SignInWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T12:57:33.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vault window.xaml",
-              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\Vault window.xaml",
-              "RelativeDocumentMoniker": "UI\\Vault window.xaml",
-              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\Vault window.xaml",
-              "RelativeToolTip": "UI\\Vault window.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T10:51:52.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\App.xaml",
               "RelativeDocumentMoniker": "UI\\App.xaml",
@@ -195,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "UI\\AssemblyInfo.cs",
@@ -207,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CopyWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\CopyWindow.xaml",
               "RelativeDocumentMoniker": "UI\\CopyWindow.xaml",
@@ -218,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\DL_db\\AccountRepository.cs",
               "RelativeDocumentMoniker": "DL_db\\AccountRepository.cs",
@@ -226,43 +216,54 @@
               "RelativeToolTip": "DL_db\\AccountRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:23:50.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:23:50.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SignInWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml",
-              "RelativeDocumentMoniker": "UI\\SignInWindow.xaml",
-              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml",
-              "RelativeToolTip": "UI\\SignInWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T10:51:44.129Z"
+              "DocumentIndex": 9,
+              "Title": "SignInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\SignInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SignInWindow.xaml.cs",
+              "RelativeToolTip": "UI\\SignInWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:57:33.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SettingsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SettingsWindow.xaml",
               "RelativeDocumentMoniker": "UI\\SettingsWindow.xaml",
               "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\SettingsWindow.xaml",
               "RelativeToolTip": "UI\\SettingsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T10:51:40.59Z"
+              "WhenOpened": "2026-03-13T10:51:40.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BL",
+              "DocumentIndex": 8,
+              "Title": "Vault window.xaml",
+              "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\Vault window.xaml",
+              "RelativeDocumentMoniker": "UI\\Vault window.xaml",
+              "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\Vault window.xaml",
+              "RelativeToolTip": "UI\\Vault window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T10:51:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BL.csproj",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\BL.csproj",
               "RelativeDocumentMoniker": "BL\\BL.csproj",
               "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\BL\\BL.csproj",
               "RelativeToolTip": "BL\\BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T12:53:08.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:53:08.857Z"
             },
             {
               "$type": "Document",
@@ -302,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AccountWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\AccountWindow.xaml.cs",
               "RelativeDocumentMoniker": "UI\\AccountWindow.xaml.cs",
@@ -321,7 +322,8 @@
               "ToolTip": "C:\\Users\\yanng\\QuickCopy\\Code\\UI\\EditingWindow.xaml",
               "RelativeToolTip": "UI\\EditingWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T10:50:58.634Z"
+              "WhenOpened": "2026-03-13T10:50:58.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

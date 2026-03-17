@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace BL.Domain
 {
-    internal class Settings
+    public class Settings
     {
+        public Settings(string language, int fontSize, string theam)
+        { 
+            Language = language;
+            FontSize = fontSize;
+            Theam = theam;
+        }
+
+        public string Language { get; set; }
+        public int FontSize { get; set; }
+        public string Theam { get; set; }
     }
 }
