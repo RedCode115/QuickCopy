@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DL_db
+namespace BL.Domain
 {
-    internal class AccountRepository
+    internal class Settings
     {
-        
     }
 }
